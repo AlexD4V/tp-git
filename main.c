@@ -1,5 +1,8 @@
 main{
-	int r = remove_forward();
+<<<<<<< HEAD
+=======
+	int res = move_forward();
 
-	printf("changement du message de bienvenu");
+	printf("2eme message");
+>>>>>>> develop
 }
