@@ -1,3 +1,3 @@
 main{
-	printf("2eme message");
+	printf("changement du message de bienvenu");
 }
